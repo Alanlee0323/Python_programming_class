@@ -1,0 +1,11 @@
+Student ID,Name Initials,Age,Gender,Height (cm),Weight (kg),Vision Left,Vision Right,Vaccination Status,Physical Activity Level,Health Notes
+1,Student01,6,1,170,51,0,1,0,2,1
+2,Student02,14,1,154,31,0,0,1,2,1
+3,Student03,8,1,144,65,0,0,0,1,0
+4,Student04,13,0,171,42,0,0,0,1,0
+5,Student05,10,0,151,53,1,0,0,3,0
+6,Student06,18,0,123,45,1,0,1,1,0
+7,Student07,15,0,153,67,0,0,1,1,0
+8,Student08,14,0,128,45,1,1,0,2,1
+9,Student09,6,0,165,68,1,0,0,1,0
+10,Student10,7,0,143,58,0,0,0,2,1
